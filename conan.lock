@@ -1,0 +1,10 @@
+{
+    "version": "0.5",
+    "requires": [
+        "nlohmann_json/3.11.2#a35423bb6e1eb8f931423557e282c7ed%1666619820.488",
+        "fmt/10.0.0#dd5e3eb81b512a1bb34a5aab88a07e82%1684225718.04",
+        "asio/1.28.0#83b60467ba4e3487d61a29a722166a0b%1688128899.713"
+    ],
+    "build_requires": [],
+    "python_requires": []
+}
